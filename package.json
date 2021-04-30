@@ -1,0 +1,21 @@
+{
+  "name": "zenhub_tools",
+  "version": "1.0.0",
+  "description": "Zenhub tools to interact with the zenhub API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "zenhub",
+    "api",
+    "node",
+    "javascript"
+  ],
+  "author": "Luis Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "node-zenhub": "^1.2.2"
+  }
+}
